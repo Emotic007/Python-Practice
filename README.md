@@ -1,2 +1,2 @@
 # Python-Practice
-Small python projects for self-learning.
+Small Python projects for self-learning.
